@@ -16,3 +16,10 @@ This project is built as part of The Odin Project's [curriculum](https://www.the
 - CSS
 - VSCode
 - Git & Github
+
+---
+
+### References
+
+- [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes)
+- [Images from allrecipes](https://www.allrecipes.com)
