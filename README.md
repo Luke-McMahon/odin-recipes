@@ -8,7 +8,7 @@ This project is built as part of The Odin Project's [curriculum](https://www.the
 
 ## Live Demo
 
-[Live Demo Link](Github Pages link when live)
+[Live Demo Link](https://luke-mcmahon.github.io/odin-recipes/)
 
 ## Built With
 
