@@ -34,3 +34,13 @@ a:hover {
   margin-top: 1rem;
   margin-bottom: 1.5rem;
 }
+
+.card {
+  width: 600px;
+  margin: 16px auto;
+  padding: 8px;
+}
+
+.card img {
+  max-width: 100%;
+}
